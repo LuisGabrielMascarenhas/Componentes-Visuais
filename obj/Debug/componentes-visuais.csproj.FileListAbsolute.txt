@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\bin\Debug\componentes-visuais.exe.config
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\bin\Debug\componentes-visuais.exe
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\bin\Debug\componentes-visuais.pdb
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\obj\Debug\componentes-visuais.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\obj\Debug\componentes_visuais.ComponentesVisuais.resources
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\obj\Debug\componentes_visuais.Properties.Resources.resources
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\obj\Debug\componentes-visuais.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\obj\Debug\componentes-visuais.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\obj\Debug\componentes-visuais.exe
+C:\Users\Laboratorio-Info\Source\Repos\componentes-visuais\obj\Debug\componentes-visuais.pdb
