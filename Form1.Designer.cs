@@ -29,6 +29,7 @@ namespace componentes_visuais
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ComponentesVisuais));
             this.menuStrip2 = new System.Windows.Forms.MenuStrip();
             this.toolStripArquivo = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripEditar = new System.Windows.Forms.ToolStripMenuItem();
@@ -129,6 +130,7 @@ namespace componentes_visuais
             // 
             // mmFechar
             // 
+            this.mmFechar.Image = ((System.Drawing.Image)(resources.GetObject("mmFechar.Image")));
             this.mmFechar.Name = "mmFechar";
             this.mmFechar.Size = new System.Drawing.Size(180, 22);
             this.mmFechar.Text = "&Fechar";
